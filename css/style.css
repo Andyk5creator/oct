@@ -2350,6 +2350,12 @@ canvas {
   aspect-ratio: 899/377;
 }
 
+.blob {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .swiper {
   overflow: hidden;
 }
